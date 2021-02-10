@@ -1,10 +1,9 @@
 <h1 align="center">️ Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm <a href="https://github.com/Ravirajayya">Raviraj</a></h1> 
 
+
 <!--
 **Ravirajayya/Ravirajayya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Java developmenet
 - 🌱 I’m currently learning spring boot
 - 👯 I’m looking to collaborate on ...
@@ -27,6 +26,9 @@ Here are some ideas to get you started:
 - I'm aspiring 🔭️ Back-End Developer.
 - Working in aerospace 🚀 domain as object C and java developer.
 - I Worked on plantUML 🗼 as architeure.
+
+
+
 
 <h1 align="center"> 🚀 Skills & Technologies</h1>
 <p align="center">
